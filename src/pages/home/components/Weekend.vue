@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="title">周末去哪而</div>
+    <div class="title">周末去哪儿</div>
     <ul>
       <li
         class="item border-bottom"
