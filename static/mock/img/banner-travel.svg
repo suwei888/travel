@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="225" viewBox="0 0 720 225">
+  <rect width="720" height="225" fill="#2f9eb3"/>
+  <path d="M0 170 C120 120 230 210 360 155 C500 95 610 145 720 92 L720 225 L0 225 Z" fill="#f8d475"/>
+  <circle cx="600" cy="52" r="30" fill="#ffe39b"/>
+  <text x="46" y="92" fill="#ffffff" font-family="Arial, sans-serif" font-size="34" font-weight="700">Travel Guide</text>
+  <text x="48" y="132" fill="#e9fbff" font-family="Arial, sans-serif" font-size="18">Weekend routes and city experiences</text>
+</svg>

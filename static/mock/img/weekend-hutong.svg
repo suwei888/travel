@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="267" viewBox="0 0 720 267">
+  <rect width="720" height="267" fill="#f5eee4"/>
+  <path d="M70 104 L170 52 L270 104 Z" fill="#c94d3e"/>
+  <rect x="92" y="104" width="156" height="94" fill="#d7a667"/>
+  <path d="M370 122 L468 70 L566 122 Z" fill="#335f73"/>
+  <rect x="392" y="122" width="154" height="76" fill="#d8c49d"/>
+  <text x="54" y="226" fill="#6d4c32" font-family="Arial, sans-serif" font-size="28" font-weight="700">City Walk</text>
+</svg>

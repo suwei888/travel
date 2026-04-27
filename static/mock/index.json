@@ -1,0 +1,82 @@
+{
+  "ret": true,
+  "data": {
+    "city": "北京",
+    "swiperList": [
+      {
+        "id": "0001",
+        "imgUrl": "./static/mock/img/banner-travel.svg"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "0001",
+        "imgUrl": "./static/mock/img/icon-place.svg",
+        "desc": "景点门票"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "./static/mock/img/icon-place.svg",
+        "desc": "城市观光"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "./static/mock/img/icon-place.svg",
+        "desc": "主题乐园"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "./static/mock/img/icon-place.svg",
+        "desc": "周边短途"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "./static/mock/img/icon-place.svg",
+        "desc": "亲子旅行"
+      },
+      {
+        "id": "0006",
+        "imgUrl": "./static/mock/img/icon-place.svg",
+        "desc": "演出票务"
+      },
+      {
+        "id": "0007",
+        "imgUrl": "./static/mock/img/icon-place.svg",
+        "desc": "温泉度假"
+      },
+      {
+        "id": "0008",
+        "imgUrl": "./static/mock/img/icon-place.svg",
+        "desc": "美食体验"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": "0001",
+        "imgUrl": "./static/mock/img/card-palace.svg",
+        "title": "故宫深度游",
+        "desc": "经典文化路线，适合第一次来北京的游客"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "./static/mock/img/card-water.svg",
+        "title": "颐和园湖畔漫游",
+        "desc": "轻松半日行程，适合周末亲友出游"
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "0001",
+        "imgUrl": "./static/mock/img/weekend-park.svg",
+        "title": "奥林匹克森林公园",
+        "desc": "骑行、散步和野餐都很方便的城市绿地"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "./static/mock/img/weekend-hutong.svg",
+        "title": "胡同城市漫步",
+        "desc": "用半天时间体验老城街巷与咖啡小店"
+      }
+    ]
+  }
+}

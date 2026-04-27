@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="267" viewBox="0 0 720 267">
+  <rect width="720" height="267" fill="#dff3e6"/>
+  <circle cx="598" cy="54" r="34" fill="#ffd36b"/>
+  <path d="M0 198 C160 118 250 230 410 164 C540 110 615 150 720 120 L720 267 L0 267 Z" fill="#5bad72"/>
+  <text x="42" y="96" fill="#25633a" font-family="Arial, sans-serif" font-size="32" font-weight="700">Weekend Park</text>
+</svg>
